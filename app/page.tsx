@@ -174,7 +174,7 @@ export default function Home() {
           About
         </p>
         <p className="text-base text-[#555] leading-relaxed max-w-xl font-[family-name:var(--font-sans)]">
-          A small software studio based in Connecticut. We build focused, useful
+          A small software studio building focused, useful
           products in healthcare data and consumer health.
         </p>
       </section>

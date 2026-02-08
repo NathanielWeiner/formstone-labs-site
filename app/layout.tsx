@@ -18,7 +18,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Formstone Labs",
-  description: "A small software studio based in Connecticut. We build focused, useful products in healthcare data and consumer health.",
+  description: "A small software studio building focused, useful products in healthcare data and consumer health.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
