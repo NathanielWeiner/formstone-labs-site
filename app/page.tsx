@@ -142,20 +142,14 @@ export default function Home() {
       </nav>
 
       {/* Hero */}
-      <section className="px-6 sm:px-8 pt-20 pb-24 sm:pt-28 sm:pb-32 max-w-[720px] mx-auto">
+      <section className="px-6 sm:px-8 pt-20 pb-20 sm:pt-28 sm:pb-24 max-w-[720px] mx-auto">
         <h1 className="text-[2.5rem] sm:text-5xl lg:text-[3.5rem] font-bold font-[family-name:var(--font-serif)] text-[#1A1A1A] mb-6 leading-[1.1] tracking-[-0.02em]">
           Software <span className="text-[#7A3030]">built</span> to last.
         </h1>
-        <p className="text-lg sm:text-[1.2rem] text-[#555] leading-[1.7] max-w-lg mb-10 font-[family-name:var(--font-sans)] font-normal">
+        <p className="text-lg sm:text-[1.2rem] text-[#555] leading-[1.7] max-w-lg mb-0 font-[family-name:var(--font-sans)] font-normal">
           We make tools that stand the test of time. No shortcuts,
           no&nbsp;compromises — just solid software, carefully made.
         </p>
-        <a
-          href="#projects"
-          className="inline-block rounded-lg bg-[#7A3030] text-white px-7 py-3.5 text-sm font-medium font-[family-name:var(--font-sans)] tracking-[-0.01em] hover:bg-[#692828] active:bg-[#5C2323] transition-all duration-200 hover:shadow-md"
-        >
-          View our work →
-        </a>
       </section>
 
       {/* Formstone divider */}
